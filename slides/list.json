@@ -1,1 +1,9 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "phonegap.html",
+        "phonegap.md"
+    ],
+    "installing-phonegap.html",
+    "web-frameworks.html"
+]
