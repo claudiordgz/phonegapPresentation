@@ -15,7 +15,7 @@ The advantage in this case is that you will only test for mobile platforms.
 <br>
 Your hammer and nails for PhoneGap are:
 <div class="row" style="align:center;">  
-    <div class="col-xs-12 col-md-12">
+    <div class="col-xs-18 col-sm-12 col-md-12">
         <img src="http://dropsha.re/files/1JjCawA/web-trifecta_html5_css3_js-strict.png" height="120">
     </div>
 </div>
