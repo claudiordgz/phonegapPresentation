@@ -5,5 +5,29 @@
         "phonegap.md"
     ],
     "installing-phonegap.html",
-    "web-frameworks.html"
+    [
+        "web-applications-crash-course.md",
+        "phonegap-apps.md",
+        "the-key-of-phonegap-development.md",
+        "pitfalls.md"
+    ],
+    [
+        "web-frameworks.md",
+        "dependency-injection.md",
+        "running-web-server.md",
+        "mobile-frameworks.md"
+    ],
+    [
+        "angularjs.md",
+        "helping-with-the-boilerplate.md",
+        "yo.md"
+    ],
+    [
+        "generator-installing.md",
+        "generator-adding-a-module.md",
+        "generator-adding-a-controller.md",
+        "generator-adding-a-new-controller.md",
+        "generator-testing.md"
+    ],
+    "android-deliverable.md"
 ]
